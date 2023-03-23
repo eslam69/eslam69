@@ -69,4 +69,4 @@ I'm currently pursuing Master's degree in Electrical and Computer Engineering wi
 ```
  [![Linkedin: Eslam Kheled](https://img.shields.io/badge/-Eslam_Khaled-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eslam64/)](https://www.linkedin.com/in/eslam64/) 
 
-
+[![Eslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=eslam69&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
