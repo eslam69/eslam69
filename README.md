@@ -3,7 +3,7 @@
 ![](https://camo.githubusercontent.com/da044eceef3d233db5a7b412c049813af02a8af0/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f34666630373938363230383539332e356439613635346539326633362e676966)
 
 ![](https://komarev.com/ghpvc/?username=eslam69&color=brightgreen&style=for-the-badge	)
-### Hi there👋, I'm [Eslam Khaled](https://www.github.com/eslam69) an embedded systems & AI enthusiast.
+### Hi there👋, I'm [Eslam Khaled](https://www.github.com/eslam69) an embedded systems & efficient AI enthusiast.
 #### Glad to see you here!
 I'm currently pursuing Master's degree in Electrical and Computer Engineering with focus in Robotics and AI at The University of Ottawa. I had completed my Bachelor's degree in Systems & Biomedical Engineering from Cairo University 🎓.I love open source. I mainly code in Python and C++, but I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
 ```pyhton
