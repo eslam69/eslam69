@@ -4,4 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=eslam69&color=brightgreen&style=for-the-badge	)  [![Linkedin: Eslam Khaled](https://img.shields.io/badge/-Eslam_Khaled-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eslam64/)](https://www.linkedin.com/in/eslam64/) 
 
-[![Eslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=eslam69&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Eslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=eslam69&include_all_commits=true&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=6bf4bac85fd5413a75fc289280b78311)](https://gist.github.com/eslam69/6bf4bac85fd5413a75fc289280b78311)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=1d0931a6eb3412201126ed6b7c589973)](https://gist.github.com/eslam69/1d0931a6eb3412201126ed6b7c589973)
+
